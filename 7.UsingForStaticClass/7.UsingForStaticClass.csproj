@@ -7,7 +7,7 @@
     <ProjectGuid>{A0422D85-02AF-43A0-BA48-3E88E2939088}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_7.UsingForStaticClass</RootNamespace>
-    <AssemblyName>_7.UsingForStaticClass</AssemblyName>
+    <AssemblyName>7.UsingForStaticClass</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

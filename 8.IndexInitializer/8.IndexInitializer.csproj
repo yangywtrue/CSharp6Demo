@@ -7,7 +7,7 @@
     <ProjectGuid>{402282DA-1799-4B04-AF8D-C510B9D4CECF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_8.IndexInitializer</RootNamespace>
-    <AssemblyName>_8.IndexInitializer</AssemblyName>
+    <AssemblyName>8.IndexInitializer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
